@@ -1,2 +1,2 @@
 # Phshy
-phishing website detector
+It's Simple Website to Detect the Fishy Websites.
